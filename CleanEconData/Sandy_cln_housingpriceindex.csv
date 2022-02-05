@@ -1,14 +1,14 @@
-,DATE,Unemployment,Hurricane,Hurricane Date,Location,Delta
-0,2008-01-01,54423,Sandy,2012-10-22,Cape May,-4
-1,2009-01-01,49797,Sandy,2012-10-22,Cape May,-3
-2,2010-01-01,51585,Sandy,2012-10-22,Cape May,-2
-3,2011-01-01,52312,Sandy,2012-10-22,Cape May,-1
-4,2012-01-01,55175,Sandy,2012-10-22,Cape May,0
-5,2013-01-01,56520,Sandy,2012-10-22,Cape May,0
-6,2014-01-01,55409,Sandy,2012-10-22,Cape May,1
-7,2015-01-01,55632,Sandy,2012-10-22,Cape May,2
-8,2016-01-01,59181,Sandy,2012-10-22,Cape May,3
-9,2017-01-01,64450,Sandy,2012-10-22,Cape May,4
-10,2018-01-01,62175,Sandy,2012-10-22,Cape May,5
-11,2019-01-01,66565,Sandy,2012-10-22,Cape May,6
-12,2020-01-01,75829,Sandy,2012-10-22,Cape May,7
+,DATE,Housing Price Index,Hurricane,Hurricane Date,Location,Delta
+0,2008-01-01,201.55,Sandy,2012-10-22,"Cape May, NJ",-4
+1,2009-01-01,188.75,Sandy,2012-10-22,"Cape May, NJ",-3
+2,2010-01-01,179.99,Sandy,2012-10-22,"Cape May, NJ",-2
+3,2011-01-01,172.63,Sandy,2012-10-22,"Cape May, NJ",-1
+4,2012-01-01,169.49,Sandy,2012-10-22,"Cape May, NJ",0
+5,2013-01-01,169.24,Sandy,2012-10-22,"Cape May, NJ",0
+6,2014-01-01,168.97,Sandy,2012-10-22,"Cape May, NJ",1
+7,2015-01-01,171.8,Sandy,2012-10-22,"Cape May, NJ",2
+8,2016-01-01,173.8,Sandy,2012-10-22,"Cape May, NJ",3
+9,2017-01-01,178.64,Sandy,2012-10-22,"Cape May, NJ",4
+10,2018-01-01,186.28,Sandy,2012-10-22,"Cape May, NJ",5
+11,2019-01-01,196.91,Sandy,2012-10-22,"Cape May, NJ",6
+12,2020-01-01,210.68,Sandy,2012-10-22,"Cape May, NJ",7
