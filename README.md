@@ -6,14 +6,12 @@
 -  Do hurricanes have a serious impact on the economy of the affected areas? 
 
 While these storms certainly cause havoc and negatively impact a lot of individual lives and families, the data that we gathered doesn’t show a huge impact on the overall economy. When looking particularly into the GDP of the affected arears, there was really no correlation whatsoever to the damage that a hurricane causes to the GDP of an area that was affected by the storm. We can point to Hurricane Rita, which actually shows a continuous increase starting before and even during the immediate aftermath of the storm, with the GDP rising by roughly 1 million after 1 year. The other 4 storms affected areas maintained the same GDP that they had in the years leading up to the storm as they did in the years following, demonstrated on the bottom of the chart. 
-When analyzing the effect on the unemployment rate after the storms, you can see that effect was a little different depending on the storm. We can see that both Katrina and Sandy seemed to have caused an immediate spike in unemployment during the immediate aftermath of the storms, followed by a sharp decrease in unemployment rate within the first year after the storm. Both Rita and Ivan seemed to follow similar trajectories in this area, where there was a decrease in unemployment rate after the storm and the immediate years following. However, Ike had a rise in unemployment during the aftermath, which could have something to do with when it took place in 2008. 
-
-We also looked into the median household income of each of the storm affected areas both before and after the storm. When analyzing these results, it was tough to pinpoint if there was any direct effect on the household income after the storms hit. We can see that for Rita, Ivan, and Katrina, that there was actually a rise in income during the first 1-2 years after the storm. There was no real effect for Ike, and the rise for Sandy came years down the line and could be contributed to other causes. We were curious to see if there would perhaps be an even lower income in some areas due to perhaps a higher poverty level due to such devastation, but that was not the case. 
-
 ![Screen Shot 2022-06-30 at 1 12 13 PM](https://user-images.githubusercontent.com/84547558/176771210-e284b2da-699c-4d34-87c0-c432df7742ce.png)
 
+When analyzing the effect on the unemployment rate after the storms, you can see that effect was a little different depending on the storm. We can see that both Katrina and Sandy seemed to have caused an immediate spike in unemployment during the immediate aftermath of the storms, followed by a sharp decrease in unemployment rate within the first year after the storm. Both Rita and Ivan seemed to follow similar trajectories in this area, where there was a decrease in unemployment rate after the storm and the immediate years following. However, Ike had a rise in unemployment during the aftermath, which could have something to do with when it took place in 2008. 
 ![Screen Shot 2022-06-30 at 1 11 50 PM](https://user-images.githubusercontent.com/84547558/176772011-8b900a5c-624a-4cdf-9868-2779255e3b97.png)
 
+We also looked into the median household income of each of the storm affected areas both before and after the storm. When analyzing these results, it was tough to pinpoint if there was any direct effect on the household income after the storms hit. We can see that for Rita, Ivan, and Katrina, that there was actually a rise in income during the first 1-2 years after the storm. There was no real effect for Ike, and the rise for Sandy came years down the line and could be contributed to other causes. We were curious to see if there would perhaps be an even lower income in some areas due to perhaps a higher poverty level due to such devastation, but that was not the case. 
 
 ![Screen Shot 2022-06-30 at 1 09 55 PM](https://user-images.githubusercontent.com/84547558/176771313-f6ea5d99-72dd-4ff7-b921-16fee0b98ef8.png)
 
@@ -21,10 +19,10 @@ We also looked into the median household income of each of the storm affected ar
 ## Is there a correlation on the housing market prices after these storms leave behind billions in damage? 
 
 In analyzing this piece of data, we can see a rather consistent correlation in the Housing Price Index in storm affected areas after the hurricane. In the other 4 storms, besides Ike, we can see a rather immediate increase in the price index of houses in the first year after the storm, specifically Katrina, Ivan, and Rita. 
+![Screen Shot 2022-06-30 at 1 21 06 PM](https://user-images.githubusercontent.com/84547558/176771681-bff69ff4-ea1d-4e85-be04-23356efce3ba.png)
+
 As we were interested in the price of housing after the storm, we were also curious of the rate at which they were being built. The only storm that seemed to provide significant results in this regard was Rita, where we can see a steep decline in the amount of new private structures in the first 3 years following the storm, before a progressive rise. 
 There was a slight increase in authorized structures after Katrina before it tailed back off, but there’s nothing that we can point to as a significant and direct effect of the storm damage that took place for the other affected areas. 
-
-![Screen Shot 2022-06-30 at 1 21 06 PM](https://user-images.githubusercontent.com/84547558/176771681-bff69ff4-ea1d-4e85-be04-23356efce3ba.png)
 
 ![Screen Shot 2022-06-30 at 1 21 32 PM](https://user-images.githubusercontent.com/84547558/176771704-b0078767-d329-4ca8-acf2-212b84d4da61.png)
 
