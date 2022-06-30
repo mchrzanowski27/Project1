@@ -12,7 +12,8 @@ We also looked into the median household income of each of the storm affected ar
 
 ![Screen Shot 2022-06-30 at 1 12 13 PM](https://user-images.githubusercontent.com/84547558/176771210-e284b2da-699c-4d34-87c0-c432df7742ce.png)
 
-![Screen Shot 2022-06-30 at 1 12 13 PM](https://user-images.githubusercontent.com/84547558/176771255-9ab081e9-6429-444a-b0b5-88b1b6878e73.png)
+![Screen Shot 2022-06-30 at 1 11 50 PM](https://user-images.githubusercontent.com/84547558/176772011-8b900a5c-624a-4cdf-9868-2779255e3b97.png)
+
 
 ![Screen Shot 2022-06-30 at 1 09 55 PM](https://user-images.githubusercontent.com/84547558/176771313-f6ea5d99-72dd-4ff7-b921-16fee0b98ef8.png)
 
