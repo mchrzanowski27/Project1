@@ -10,12 +10,22 @@ When analyzing the effect on the unemployment rate after the storms, you can see
 
 We also looked into the median household income of each of the storm affected areas both before and after the storm. When analyzing these results, it was tough to pinpoint if there was any direct effect on the household income after the storms hit. We can see that for Rita, Ivan, and Katrina, that there was actually a rise in income during the first 1-2 years after the storm. There was no real effect for Ike, and the rise for Sandy came years down the line and could be contributed to other causes. We were curious to see if there would perhaps be an even lower income in some areas due to perhaps a higher poverty level due to such devastation, but that was not the case. 
 
+![Screen Shot 2022-06-30 at 1 12 13 PM](https://user-images.githubusercontent.com/84547558/176771210-e284b2da-699c-4d34-87c0-c432df7742ce.png)
 
-Is there a correlation on the housing market prices after these storms leave behind billions in damage? 
+![Screen Shot 2022-06-30 at 1 12 13 PM](https://user-images.githubusercontent.com/84547558/176771255-9ab081e9-6429-444a-b0b5-88b1b6878e73.png)
+
+![Screen Shot 2022-06-30 at 1 09 55 PM](https://user-images.githubusercontent.com/84547558/176771313-f6ea5d99-72dd-4ff7-b921-16fee0b98ef8.png)
+
+
+## Is there a correlation on the housing market prices after these storms leave behind billions in damage? 
+
 In analyzing this piece of data, we can see a rather consistent correlation in the Housing Price Index in storm affected areas after the hurricane. In the other 4 storms, besides Ike, we can see a rather immediate increase in the price index of houses in the first year after the storm, specifically Katrina, Ivan, and Rita. 
 As we were interested in the price of housing after the storm, we were also curious of the rate at which they were being built. The only storm that seemed to provide significant results in this regard was Rita, where we can see a steep decline in the amount of new private structures in the first 3 years following the storm, before a progressive rise. 
 There was a slight increase in authorized structures after Katrina before it tailed back off, but there’s nothing that we can point to as a significant and direct effect of the storm damage that took place for the other affected areas. 
 
+![Screen Shot 2022-06-30 at 1 21 06 PM](https://user-images.githubusercontent.com/84547558/176771681-bff69ff4-ea1d-4e85-be04-23356efce3ba.png)
+
+![Screen Shot 2022-06-30 at 1 21 32 PM](https://user-images.githubusercontent.com/84547558/176771704-b0078767-d329-4ca8-acf2-212b84d4da61.png)
 
 
 ## Is there an obvious decrease in population after these disasters due to residents relocating to less affected areas? 
@@ -24,6 +34,9 @@ When analyzing the data we gathered for the effects on the population, the concl
 The only noticeable change in population due to the destruction of the storm was during Hurricane Katrina, likely due to the immense amount of flooding that took place.  
 There was a decrease of more than 300,000 people after Hurricane Katrina ravaged through southern Louisiana, including a large effect on the city of New Orleans. The population of New Orleans fell from over 484k before Katrina (April 2000) to an estimated 230k after Katrina (July 2006)—a loss of over half of the city's population. Easily the greatest impact we found. 
 There was actually steady rise taking place in the Houston area before Hurricane Rita hit, and even after the destruction it caused, the population continued to rise at a steady rate, showing that the storm didn’t have much effect in that instance. Hurricanes Ike, Ivan, and Sandy had no noticeable change at all from where the population was prior to the storm. 
+
+![Screen Shot 2022-06-30 at 1 10 27 PM](https://user-images.githubusercontent.com/84547558/176771826-25a8553f-657f-46b6-877d-b9c1fad7ed05.png)
+
 
 
 ## Conclusion
