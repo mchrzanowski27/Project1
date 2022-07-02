@@ -13,6 +13,7 @@ While these storms certainly cause havoc and negatively impact a lot of individu
 ![Screen Shot 2022-06-30 at 1 12 13 PM](https://user-images.githubusercontent.com/84547558/176771210-e284b2da-699c-4d34-87c0-c432df7742ce.png)
 
 When analyzing the effect on the unemployment rate after the storms, you can see that effect was a little different depending on the storm. We can see that both Katrina and Sandy seemed to have caused an immediate spike in unemployment during the immediate aftermath of the storms, followed by a sharp decrease in unemployment rate within the first year after the storm. Both Rita and Ivan seemed to follow similar trajectories in this area, where there was a decrease in unemployment rate after the storm and the immediate years following. However, Ike had a rise in unemployment during the aftermath, which could have something to do with when it took place in 2008. 
+
 ![Screen Shot 2022-06-30 at 1 11 50 PM](https://user-images.githubusercontent.com/84547558/176772011-8b900a5c-624a-4cdf-9868-2779255e3b97.png)
 
 We also looked into the median household income of each of the storm affected areas both before and after the storm. When analyzing these results, it was tough to pinpoint if there was any direct effect on the household income after the storms hit. We can see that for Rita, Ivan, and Katrina, that there was actually a rise in income during the first 1-2 years after the storm. There was no real effect for Ike, and the rise for Sandy came years down the line and could be contributed to other causes. We were curious to see if there would perhaps be an even lower income in some areas due to perhaps a higher poverty level due to such devastation, but that was not the case. 
@@ -39,9 +40,7 @@ The only noticeable change in population due to the destruction of the storm was
 There was a decrease of more than 300,000 people after Hurricane Katrina ravaged through southern Louisiana, including a large effect on the city of New Orleans. The population of New Orleans fell from over 484k before Katrina (April 2000) to an estimated 230k after Katrina (July 2006)—a loss of over half of the city's population. Easily the greatest impact we found. 
 There was actually steady rise taking place in the Houston area before Hurricane Rita hit, and even after the destruction it caused, the population continued to rise at a steady rate, showing that the storm didn’t have much effect in that instance. Hurricanes Ike, Ivan, and Sandy had no noticeable change at all from where the population was prior to the storm. 
 
-
 ![Screen Shot 2022-06-30 at 1 10 27 PM](https://user-images.githubusercontent.com/84547558/176771826-25a8553f-657f-46b6-877d-b9c1fad7ed05.png)
-
 
 
 ### Conclusion
